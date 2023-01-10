@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Functionality.cy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runcli": "node_modules/.bin/cypress run",
+    "runclicloud": "npx cypress run --record --key 2568c413-4e6d-474b-ace4-df1a48605fc7"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

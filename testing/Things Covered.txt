@@ -1,0 +1,43 @@
+Things Coverd:
+- cypress cloud
+-git hub repo
+- both component  + e2e testing
+- run test cases via cli 
+
+- Fixtures
+- Commands ( custom )
+- Focus 
+- Blur 
+- Contains
+- get
+- Click
+- Types
+- wait
+- visit
+- find
+- screenshot
+- record
+- clear
+- Alias
+- Should
+- Expect
+- Hooks ( before, after , beforeEach, afterEach)
+- file upload via 'cypress-file-upload'
+- attatchFile
+- filter
+- trigger
+- hover
+- scroll to 
+- location
+- eq, to etc
+- href , localhost, hostname, pathname, port number, search, url in location.
+- navigation
+- reload
+- go forward 
+- go back
+- local storage
+- save items via local storage
+- get item via local storage
+- clear local storage
+- fill form from Fixtures
+- upload file(images) from fixture folder

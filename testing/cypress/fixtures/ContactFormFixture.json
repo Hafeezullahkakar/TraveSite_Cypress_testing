@@ -1,0 +1,6 @@
+{
+  "name": "hafeez from fixture",
+  "email": "hello@fixture.io",
+  "subject":"Fixture learning",
+  "message": "Fixtures are a great way to mock data for responses to routes"
+}
